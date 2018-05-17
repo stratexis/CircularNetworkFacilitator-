@@ -1,8 +1,8 @@
-# CircularNetworkFacilitator-
+# CircularNetworkFacilitator
 Reference : https://hack.opendata.ch/project/181
 Date du Hackathon : 18.05.2018
 
-Keywords: Circular Economy Lab Region - Valais Circular Economy Network - Réseau d'échange dans une démarche d'économie circulaire 
+<i>Keywords: Circular Economy Lab Region - Valais Circular Economy Network - Réseau d'échange dans une démarche d'économie circulaire </i>
 
 
 <b>Transformez vos surplus en ressource ! </b>
@@ -12,7 +12,7 @@ Il s'agit de favoriser les échanges. Cette application vise à mettre en relati
 <b>Problèmes à résoudre</b> </p>
     Identifier les ressources inexploitées</p>
     Mettre en relation des acteurs </p>
-    Concevoir un modèle d’affaires durable</p>.
+    Concevoir un modèle d’affaires durable</p>
 
 <b>Proposition d’approche</b>
 
