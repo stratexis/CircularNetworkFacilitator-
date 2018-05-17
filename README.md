@@ -1,6 +1,7 @@
 # CircularNetworkFacilitator
 Reference : https://hack.opendata.ch/project/181
 Date du Hackathon : 18.05.2018
+Host : HES-SO Valais Wallis http://www.hevs.ch
 
 <i>Keywords: Circular Economy Lab Region - Valais Circular Economy Network - Réseau d'échange dans une démarche d'économie circulaire </i>
 
