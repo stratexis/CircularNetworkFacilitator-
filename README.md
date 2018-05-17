@@ -4,11 +4,17 @@ Date du Hackathon : 18.05.2018
 
 Keywords: Circular Economy Lab Region - Valais Circular Economy Network - Réseau d'échange dans une démarche d'économie circulaire 
 
-'''
+
 <b>Transformez vos surplus en ressource ! </b>
 
 Il s'agit de favoriser les échanges. Cette application vise à mettre en relation des offreurs et des demandeurs de produits agricoles (fruits, légumes, matières intermédiaires ou fin de cycle) et/ou des matériels agricoles (en état, ou à réparer), à donner ou à vendre.
-Proposition d’approche
+
+<b>Problèmes à résoudre</b> 
+    Identifier les ressources inexploitées
+    Mettre en relation des acteurs
+    Concevoir un modèle d’affaires durable.
+
+<b>Proposition d’approche</b>
 
     Qu’est-ce qui existe déjà ? Recenser les solutions open source existantes (éventuellement adapter ou développer l'initiative : https://github.com/emfoundation/ce100-app).
 
@@ -27,7 +33,7 @@ Proposition d’approche
 
     Comment rendre le système durable économiquement ? Concevoir un business model durable.
 
-Exemple d’utilisation
+<b>Exemple d’utilisation</b>
 
 Tiré d’un réel cas réalisé au Parc de Finges (VS).
 
@@ -35,6 +41,3 @@ Des arbres fruitiers abandonnés ont été identifiés (ressource inexploitée).
 
 Il a ensuite identifié des écoliers et des personnes en situation de handicap qui cherchent à faire des sorties éducatives ou de loisirs (besoin 2), qui étaient d’accord pour ramasser les fruits. Ensuite, il a fait livrer les fruits à un cuisinier de la commune, qui a produit des confitures, et qui ont été mises sur le marché.
 
---> Problèmes à résoudre : - Identifier les ressources inexploitées, - Mettre en relation des acteurs, - Concevoir un modèle d’affaires durable.
-
-'''
