@@ -9,10 +9,10 @@ Keywords: Circular Economy Lab Region - Valais Circular Economy Network - Résea
 
 Il s'agit de favoriser les échanges. Cette application vise à mettre en relation des offreurs et des demandeurs de produits agricoles (fruits, légumes, matières intermédiaires ou fin de cycle) et/ou des matériels agricoles (en état, ou à réparer), à donner ou à vendre.
 
-<b>Problèmes à résoudre</b> </n>
-    Identifier les ressources inexploitées
-    Mettre en relation des acteurs
-    Concevoir un modèle d’affaires durable.
+<b>Problèmes à résoudre</b> </p>
+    Identifier les ressources inexploitées</p>
+    Mettre en relation des acteurs </p>
+    Concevoir un modèle d’affaires durable</p>.
 
 <b>Proposition d’approche</b>
 
