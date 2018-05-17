@@ -1,11 +1,11 @@
 # CircularNetworkFacilitator-
-# Reference : https://hack.opendata.ch/project/181
-# Date du Hackathon : 18.05.2018
+Reference : https://hack.opendata.ch/project/181
+Date du Hackathon : 18.05.2018
 
-# Keywords: Circular Economy Lab Region - Valais Circular Economy Network - Réseau d'échange dans une démarche d'économie circulaire 
+Keywords: Circular Economy Lab Region - Valais Circular Economy Network - Réseau d'échange dans une démarche d'économie circulaire 
 
 '''
-<b>Transformez vos surplus en ressource ! <\b>
+<b>Transformez vos surplus en ressource ! </b>
 
 Il s'agit de favoriser les échanges. Cette application vise à mettre en relation des offreurs et des demandeurs de produits agricoles (fruits, légumes, matières intermédiaires ou fin de cycle) et/ou des matériels agricoles (en état, ou à réparer), à donner ou à vendre.
 Proposition d’approche
